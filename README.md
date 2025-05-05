@@ -1,2 +1,2 @@
-# bazel_test
-Testing the Bazel CI pipeline
+# ci_test
+Testing the CI pipelines
